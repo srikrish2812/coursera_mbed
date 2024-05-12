@@ -1,1 +1,4 @@
-This file is created using vim on terminal.
+This file is created using VIM on the terminal app.
+1. Varanasi
+2. Hyderabad
+3. Bangalore
